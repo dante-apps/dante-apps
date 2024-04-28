@@ -1,4 +1,4 @@
-- 👋 Hi, DANTE and also I’m @dante-apps.
+- 👋 Hi, Its me DANTE.
 - 👀 I’m interested in creating frappe apps and share it with the community.
 - 🌱 I’m currently building a room booking application based on frappe and vue 3. Hope it goes good.
 - 💞️ I’m looking to collaborate on any project where help is needed.
